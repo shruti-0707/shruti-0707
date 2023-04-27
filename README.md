@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shruti Lanke</h1>
-
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 - 🌱 I’m currently working at DXC Technology
 
 - 🤝 I’m looking for internship in *Frontend web development*
